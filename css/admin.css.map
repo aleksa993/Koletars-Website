@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,gBAAgB,EAAE,yBAAyB;EAC3C,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,GAAG;CACrB;;AAED,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,eAAe;CAC1B;;AAED,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,KAAK;EAChB,gBAAgB,EAAE,wBAAwB;CAC7C",
+    "sources": [
+        "admin2.scss"
+    ],
+    "names": [],
+    "file": "admin2.css"
+}

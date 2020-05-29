@@ -1,0 +1,19 @@
+.table {
+  background-color: rgba(54, 148, 255, 0.712);
+  font-size: 1.4em;
+  border: none;
+  border-radius: 5px;
+}
+
+table {
+  border: none !important;
+}
+
+.kard {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 30px;
+  font-size: 1.3em;
+  background-color: rgba(124, 124, 124, 0.5);
+}
+/*# sourceMappingURL=admin2.css.map */
